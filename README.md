@@ -257,11 +257,11 @@ GramaSanjeevini
 
 ### Sign In Screen
 
-![Sign In Screen](./screenshots/signin.jpg)
+![Sign In Screen](./GramaSanjeevini3/screenshots/signin.jpg)
 
 ### Create Account Screen
 
-![Create Account Screen](./screenshots/create_account.jpg)
+![Create Account Screen](./GramaSanjeevini3/screenshots/create_account.jpg)
 
 ---
 
@@ -269,19 +269,19 @@ GramaSanjeevini
 
 ### Dashboard Overview
 
-![Dashboard](./screenshots/dashboard.jpg)
+![Dashboard](./GramaSanjeevini3/screenshots/dashboard.jpg)
 
 ### Stock Manager
 
-![Stock Manager](./screenshots/stock_manager.jpg)
+![Stock Manager](./GramaSanjeevini3/screenshots/stock_manager.jpg)
 
 ### Pharmacy Network
 
-![Pharmacy Network](./screenshots/network.jpg)
+![Pharmacy Network](./GramaSanjeevini3/screenshots/network.jpg)
 
 ### Expiry Management
 
-![Expiry Management](./screenshots/expiry.jpg)
+![Expiry Management](./GramaSanjeevini3/screenshots/expiry.jpg)
 
 ---
 
@@ -289,15 +289,15 @@ GramaSanjeevini
 
 ### Smart Medicine Search
 
-![Medicine Search](./screenshots/search.jpg)
+![Medicine Search](./GramaSanjeevini3/screenshots/search.jpg)
 
 ### Life Saving Medicine Finder
 
-![Life Saving Medicines](./screenshots/life_saving.jpg)
+![Life Saving Medicines](./GramaSanjeevini3/screenshots/life_saving.jpg)
 
 ### Near Expiry Discounts
 
-![Near Expiry Discounts](./screenshots/near_expiry.jpg)
+![Near Expiry Discounts](./GramaSanjeevini3/screenshots/near_expiry.jpg)
 
 ---
 
